@@ -1,0 +1,17 @@
+{
+	"name": "illiz",
+	"owner": {
+		"name": "illiz",
+		"url": "https://github.com/illiz-immo"
+	},
+	"metadata": {
+		"description": "Les plugins d'illiz pour Claude : Iris, l'assistante des agents du réseau illiz."
+	},
+	"plugins": [
+		{
+			"name": "iris-staging",
+			"source": "./plugins/iris-staging",
+			"description": "Iris (environnement de recette) : l'estimation rapide d'un bien à partir des ventes DVF, servie par le serveur d'Iris."
+		}
+	]
+}

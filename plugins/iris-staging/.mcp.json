@@ -1,0 +1,8 @@
+{
+	"mcpServers": {
+		"iris": {
+			"type": "http",
+			"url": "https://iris-staging.illiz.fr/mcp"
+		}
+	}
+}

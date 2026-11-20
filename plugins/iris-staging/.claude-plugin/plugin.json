@@ -1,0 +1,11 @@
+{
+	"name": "iris-staging",
+	"version": "0.1.0",
+	"description": "Iris, l'assistante des agents du réseau illiz, dans Claude (environnement de recette) : l'estimation rapide d'un bien à partir des ventes DVF. Réservé aux comptes Google illiz.",
+	"author": {
+		"name": "illiz",
+		"url": "https://github.com/illiz-immo"
+	},
+	"homepage": "https://iris-staging.illiz.fr",
+	"repository": "https://github.com/illiz-immo/iris-claude"
+}
